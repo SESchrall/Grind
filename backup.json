@@ -1,0 +1,64 @@
+{
+  "week": 1,
+  "day": 0,
+  "checked": {},
+  "sets": {},
+  "notes": {},
+  "completed": {},
+  "readiness": {
+    "w1d0": {
+      "sleep": 1,
+      "stress": 3,
+      "energy": 2
+    }
+  },
+  "customEx": [],
+  "customWorkout": {},
+  "prData": {},
+  "streakData": {
+    "current": 0,
+    "last": null,
+    "freeze": 1
+  },
+  "earnedBadges": [],
+  "features": {
+    "setTracker": true,
+    "weightLog": true,
+    "notes": true,
+    "restTimer": true,
+    "autoTimer": false,
+    "dynamicRest": true,
+    "readiness": true,
+    "rpe": true,
+    "deloadAlert": true,
+    "streak": true,
+    "badges": true,
+    "heatmap": true,
+    "weekReport": true,
+    "prTable": true,
+    "volumeChart": true,
+    "shareCard": true,
+    "swipeGestures": true,
+    "vibration": true
+  },
+  "activeTheme": "dark",
+  "sessions": {
+    "sess_w1_d2": [
+      {
+        "type": "mma",
+        "label": "MMA Training",
+        "intensity": 2,
+        "duration": 60,
+        "content": [
+          "Technik",
+          "Sparring",
+          "Takedowns"
+        ],
+        "note": "",
+        "ts": 1772718946011
+      }
+    ]
+  },
+  "skippedDays": {},
+  "kbDays": {}
+}
