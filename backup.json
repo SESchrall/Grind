@@ -1,12 +1,17 @@
 {
-  "week": 1,
-  "day": 1,
+  "week": 2,
+  "day": 0,
   "checked": {
     "w1d0e0": true,
     "w1d0e1": true,
     "w1d0e2": true,
     "w1d0e3": true,
-    "w1d0e4": true
+    "w1d0e4": true,
+    "w1d2e0": true,
+    "w1d2e1": true,
+    "w1d2e2": true,
+    "w1d2e3": true,
+    "w1d2e4": true
   },
   "sets": {
     "w1d0e0s0": {
@@ -59,6 +64,54 @@
     },
     "w1d0e4s2": {
       "done": true
+    },
+    "w1d2e0s0": {
+      "done": true
+    },
+    "w1d2e0s1": {
+      "done": true
+    },
+    "w1d2e0s2": {
+      "done": true
+    },
+    "w1d2e0s3": {
+      "done": true
+    },
+    "w1d2e1s0": {
+      "done": true
+    },
+    "w1d2e1s1": {
+      "done": true
+    },
+    "w1d2e1s2": {
+      "done": true
+    },
+    "w1d2e2s0": {
+      "done": true
+    },
+    "w1d2e2s1": {
+      "done": true
+    },
+    "w1d2e2s2": {
+      "done": true
+    },
+    "w1d2e3s0": {
+      "done": true
+    },
+    "w1d2e3s1": {
+      "done": true
+    },
+    "w1d2e3s2": {
+      "done": true
+    },
+    "w1d2e4s0": {
+      "done": true
+    },
+    "w1d2e4s1": {
+      "done": true
+    },
+    "w1d2e4s2": {
+      "done": true
     }
   },
   "notes": {},
@@ -67,6 +120,11 @@
       "rpe": 3,
       "ts": 1772721141650,
       "vol": 0
+    },
+    "w1d2": {
+      "rpe": 3,
+      "ts": 1772726555194,
+      "vol": 0
     }
   },
   "readiness": {
@@ -74,6 +132,11 @@
       "sleep": 1,
       "stress": 3,
       "energy": 2
+    },
+    "w1d2": {
+      "sleep": 1,
+      "energy": 2,
+      "stress": 3
     }
   },
   "customEx": [],
