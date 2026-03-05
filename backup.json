@@ -1,10 +1,74 @@
 {
   "week": 1,
-  "day": 0,
-  "checked": {},
-  "sets": {},
+  "day": 1,
+  "checked": {
+    "w1d0e0": true,
+    "w1d0e1": true,
+    "w1d0e2": true,
+    "w1d0e3": true,
+    "w1d0e4": true
+  },
+  "sets": {
+    "w1d0e0s0": {
+      "done": true
+    },
+    "w1d0e0s1": {
+      "done": true
+    },
+    "w1d0e0s2": {
+      "done": true
+    },
+    "w1d0e0s3": {
+      "done": true
+    },
+    "w1d0e1s0": {
+      "done": true
+    },
+    "w1d0e1s1": {
+      "done": true
+    },
+    "w1d0e1s2": {
+      "done": true
+    },
+    "w1d0e1s3": {
+      "done": true
+    },
+    "w1d0e2s0": {
+      "done": true
+    },
+    "w1d0e2s1": {
+      "done": true
+    },
+    "w1d0e2s2": {
+      "done": true
+    },
+    "w1d0e3s0": {
+      "done": true
+    },
+    "w1d0e3s1": {
+      "done": true
+    },
+    "w1d0e3s2": {
+      "done": true
+    },
+    "w1d0e4s0": {
+      "done": true
+    },
+    "w1d0e4s1": {
+      "done": true
+    },
+    "w1d0e4s2": {
+      "done": true
+    }
+  },
   "notes": {},
-  "completed": {},
+  "completed": {
+    "w1d0": {
+      "rpe": 3,
+      "ts": 1772721141650,
+      "vol": 0
+    }
+  },
   "readiness": {
     "w1d0": {
       "sleep": 1,
@@ -16,11 +80,13 @@
   "customWorkout": {},
   "prData": {},
   "streakData": {
-    "current": 0,
-    "last": null,
+    "current": 1,
+    "last": "Thu Mar 05 2026",
     "freeze": 1
   },
-  "earnedBadges": [],
+  "earnedBadges": [
+    "first"
+  ],
   "features": {
     "setTracker": true,
     "weightLog": true,
