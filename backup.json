@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "day": 0,
+  "day": 1,
   "checked": {
     "w1d0e0": true,
     "w1d0e1": true,
@@ -11,7 +11,18 @@
     "w1d2e1": true,
     "w1d2e2": true,
     "w1d2e3": true,
-    "w1d2e4": true
+    "w1d2e4": true,
+    "w1d1e0": true,
+    "w1d1e1": true,
+    "w1d1e2": true,
+    "w1d1e3": true,
+    "w1d1e4": true,
+    "w1d1e5": true,
+    "w2d0e0": true,
+    "w2d0e1": true,
+    "w2d0e2": true,
+    "w2d0e3": true,
+    "w2d0e4": true
   },
   "sets": {
     "w1d0e0s0": {
@@ -112,6 +123,120 @@
     },
     "w1d2e4s2": {
       "done": true
+    },
+    "w1d1e0s0": {
+      "done": true
+    },
+    "w1d1e0s1": {
+      "done": true
+    },
+    "w1d1e0s2": {
+      "done": true
+    },
+    "w1d1e0s3": {
+      "done": true
+    },
+    "w1d1e1s0": {
+      "done": true
+    },
+    "w1d1e1s1": {
+      "done": true
+    },
+    "w1d1e1s2": {
+      "done": true
+    },
+    "w1d1e1s3": {
+      "done": true
+    },
+    "w1d1e2s0": {
+      "done": true
+    },
+    "w1d1e2s1": {
+      "done": true
+    },
+    "w1d1e2s2": {
+      "done": true
+    },
+    "w1d1e3s0": {
+      "done": true
+    },
+    "w1d1e3s1": {
+      "done": true
+    },
+    "w1d1e3s2": {
+      "done": true
+    },
+    "w1d1e4s0": {
+      "done": true
+    },
+    "w1d1e4s1": {
+      "done": true
+    },
+    "w1d1e4s2": {
+      "done": true
+    },
+    "w1d1e5s0": {
+      "done": true
+    },
+    "w1d1e5s1": {
+      "done": true
+    },
+    "w1d1e5s2": {
+      "done": true
+    },
+    "w2d0e2s0": {
+      "kg": "14",
+      "done": true
+    },
+    "w2d0e2s1": {
+      "kg": "14",
+      "done": true
+    },
+    "w2d0e2s2": {
+      "kg": "14",
+      "done": true
+    },
+    "w2d0e0s0": {
+      "done": true
+    },
+    "w2d0e0s1": {
+      "done": true
+    },
+    "w2d0e0s2": {
+      "done": true
+    },
+    "w2d0e0s3": {
+      "done": true
+    },
+    "w2d0e1s0": {
+      "done": true
+    },
+    "w2d0e1s1": {
+      "done": true
+    },
+    "w2d0e1s2": {
+      "done": true
+    },
+    "w2d0e1s3": {
+      "done": true
+    },
+    "w2d0e3s0": {
+      "done": true
+    },
+    "w2d0e3s1": {
+      "done": true
+    },
+    "w2d0e3s2": {
+      "done": true
+    },
+    "w2d0e4s0": {
+      "done": true
+    },
+    "w2d0e4s1": {
+      "done": true
+    },
+    "w2d0e4s2": {
+      "done": true
     }
   },
   "notes": {},
@@ -125,6 +250,16 @@
       "rpe": 3,
       "ts": 1772726555194,
       "vol": 0
+    },
+    "w1d1": {
+      "rpe": 4,
+      "ts": 1772970568839,
+      "vol": 0
+    },
+    "w2d0": {
+      "rpe": 3,
+      "ts": 1773136971405,
+      "vol": 0
     }
   },
   "readiness": {
@@ -137,6 +272,16 @@
       "sleep": 1,
       "energy": 2,
       "stress": 3
+    },
+    "w1d1": {
+      "sleep": 3,
+      "stress": 3,
+      "energy": 3
+    },
+    "w2d0": {
+      "sleep": 2,
+      "stress": 3,
+      "energy": 2
     }
   },
   "customEx": [],
@@ -144,8 +289,8 @@
   "prData": {},
   "streakData": {
     "current": 1,
-    "last": "Thu Mar 05 2026",
-    "freeze": 1
+    "last": "Tue Mar 10 2026",
+    "freeze": 0
   },
   "earnedBadges": [
     "first"
@@ -186,8 +331,25 @@
         "note": "",
         "ts": 1772718946011
       }
+    ],
+    "sess_w2_d0": [
+      {
+        "type": "mma",
+        "label": "MMA Training",
+        "intensity": 3,
+        "duration": 60,
+        "content": [
+          "Sparring",
+          "Striking",
+          "Takedowns"
+        ],
+        "note": "",
+        "ts": 1773127878371
+      }
     ]
   },
   "skippedDays": {},
-  "kbDays": {}
+  "kbDays": {},
+  "weekSchedule": {},
+  "cancelledDays": {}
 }
