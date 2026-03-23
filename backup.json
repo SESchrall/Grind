@@ -1,6 +1,6 @@
 {
-  "week": 2,
-  "day": 1,
+  "week": 3,
+  "day": 0,
   "checked": {
     "w1d0e0": true,
     "w1d0e1": true,
@@ -22,7 +22,18 @@
     "w2d0e1": true,
     "w2d0e2": true,
     "w2d0e3": true,
-    "w2d0e4": true
+    "w2d0e4": true,
+    "w2d2e0": true,
+    "w2d2e1": true,
+    "w2d2e2": true,
+    "w2d2e3": true,
+    "w2d2e4": true,
+    "w2d1e0": true,
+    "w2d1e1": true,
+    "w2d1e2": true,
+    "w2d1e3": true,
+    "w2d1e4": true,
+    "w2d1e5": true
   },
   "sets": {
     "w1d0e0s0": {
@@ -237,6 +248,114 @@
     },
     "w2d0e4s2": {
       "done": true
+    },
+    "w2d2e0s0": {
+      "done": true
+    },
+    "w2d2e0s1": {
+      "done": true
+    },
+    "w2d2e0s2": {
+      "done": true
+    },
+    "w2d2e0s3": {
+      "done": true
+    },
+    "w2d2e1s0": {
+      "done": true
+    },
+    "w2d2e1s1": {
+      "done": true
+    },
+    "w2d2e1s2": {
+      "done": true
+    },
+    "w2d2e2s0": {
+      "done": true
+    },
+    "w2d2e2s1": {
+      "done": true
+    },
+    "w2d2e2s2": {
+      "done": true
+    },
+    "w2d2e3s0": {
+      "done": true
+    },
+    "w2d2e3s1": {
+      "done": true
+    },
+    "w2d2e3s2": {
+      "done": true
+    },
+    "w2d2e4s0": {
+      "done": true
+    },
+    "w2d2e4s1": {
+      "done": true
+    },
+    "w2d2e4s2": {
+      "done": true
+    },
+    "w2d1e0s0": {
+      "done": true
+    },
+    "w2d1e0s1": {
+      "done": true
+    },
+    "w2d1e0s2": {
+      "done": true
+    },
+    "w2d1e0s3": {
+      "done": true
+    },
+    "w2d1e1s0": {
+      "done": true
+    },
+    "w2d1e1s1": {
+      "done": true
+    },
+    "w2d1e1s2": {
+      "done": true
+    },
+    "w2d1e1s3": {
+      "done": true
+    },
+    "w2d1e2s0": {
+      "done": true
+    },
+    "w2d1e2s1": {
+      "done": true
+    },
+    "w2d1e2s2": {
+      "done": true
+    },
+    "w2d1e3s0": {
+      "done": true
+    },
+    "w2d1e3s1": {
+      "done": true
+    },
+    "w2d1e3s2": {
+      "done": true
+    },
+    "w2d1e4s0": {
+      "done": true
+    },
+    "w2d1e4s1": {
+      "done": true
+    },
+    "w2d1e4s2": {
+      "done": true
+    },
+    "w2d1e5s0": {
+      "done": true
+    },
+    "w2d1e5s1": {
+      "done": true
+    },
+    "w2d1e5s2": {
+      "done": true
     }
   },
   "notes": {},
@@ -260,6 +379,15 @@
       "rpe": 3,
       "ts": 1773136971405,
       "vol": 0
+    },
+    "w2d2": {
+      "rpe": 3,
+      "ts": 1773480614450,
+      "vol": 0
+    },
+    "w2d1": {
+      "ts": 1774080556241,
+      "vol": 0
     }
   },
   "readiness": {
@@ -282,6 +410,11 @@
       "sleep": 2,
       "stress": 3,
       "energy": 2
+    },
+    "w2d2": {
+      "sleep": 3,
+      "stress": 3,
+      "energy": 3
     }
   },
   "customEx": [],
@@ -289,7 +422,7 @@
   "prData": {},
   "streakData": {
     "current": 1,
-    "last": "Tue Mar 10 2026",
+    "last": "Sat Mar 21 2026",
     "freeze": 0
   },
   "earnedBadges": [
@@ -345,6 +478,17 @@
         ],
         "note": "",
         "ts": 1773127878371
+      }
+    ],
+    "sess_w3_d0": [
+      {
+        "type": "mma",
+        "label": "MMA Training",
+        "intensity": 3,
+        "duration": 90,
+        "content": [],
+        "note": "",
+        "ts": 1774302966577
       }
     ]
   },
